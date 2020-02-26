@@ -1,0 +1,20 @@
+body{background-color:lightblue; font-family: courier;font-size:20px}
+h1{color:red;}
+h2{color:yellow;}
+h3{color:green;}
+hr{
+  background-color:gold;
+
+}
+#top{
+    background-color: lightgrey;
+    padding: 20px
+}
+.intro{
+  background-color:lightgreen;
+  font-weight: bold;
+}
+
+#image{
+  border-radius: 100px;
+}
